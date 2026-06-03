@@ -269,7 +269,8 @@ Bank-Loan-Data-Analytics/
 
 ## Overview Dashboard
 
-![Overview Dashboard](Screenshots/Overview_Dashboard.png)
+<img width="666" height="376" alt="image" src="https://github.com/user-attachments/assets/f734245e-8bb3-406b-b6e7-dc8e6c191a73" />
+
 
 ## Details Dashboard
 
