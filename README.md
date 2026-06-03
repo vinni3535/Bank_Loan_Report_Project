@@ -266,7 +266,8 @@ Bank-Loan-Data-Analytics/
 
 ## Summary Dashboard
 
-![Summary Dashboard](Screenshots/Summary_Dashboard.png)
+![Uploading summary.png…]()
+
 
 ## Overview Dashboard
 
