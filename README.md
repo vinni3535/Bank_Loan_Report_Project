@@ -274,7 +274,7 @@ Bank-Loan-Data-Analytics/
 
 ## Details Dashboard
 
-<img width="960" height="540" alt="Detail" src="https://github.com/user-attachments/assets/73f73a0d-7088-4bf0-be39-7b5ae9398126" />
+<img width="664" height="374" alt="Details" src="https://github.com/user-attachments/assets/d917ef2d-3a22-403d-a97a-ca37a27e16ca" />
 
 
 ---
