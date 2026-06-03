@@ -265,9 +265,7 @@ Bank-Loan-Data-Analytics/
 # 📸 Dashboard Screenshots
 
 ## Summary Dashboard
-
-![Uploading summary.png…]()
-
+<img width="673" height="377" alt="summary" src="https://github.com/user-attachments/assets/4405f68e-1484-497b-b2c8-47bd62f4e383" />
 
 ## Overview Dashboard
 
